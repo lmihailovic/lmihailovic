@@ -6,7 +6,7 @@ self.addEventListener('install', event => {
     event.waitUNtil(
         caches.open(staticCacheName).then(function (cache) {
             return cache.addAll([
-                '/', '/style.css', '/app.js', '/manifest.json', '/sw.js'
+                '/', '/style.css', '/app.js', '/manifest.json', '/sw.js' , 'https://api.spacexdata.com/v3/info'
             ]);
         })
     );
