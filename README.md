@@ -10,4 +10,4 @@ Head of IT at [Argo Student Robotics Team](https://github.com/Argo-Student-Robot
 - 🤔 I’m looking for help with system design
 - 💬 Ask me about Linux and filmography
 - 📫 How to reach me: luka@lukam.xyz
-- ⚡ Fun fact: Vim is superior to Emacs :)
+- ⚡ Fun fact: i use arch btw
