@@ -1,8 +1,18 @@
-# Howdy 👋🤠
+# Howdy, I'm Luka 👋🤠
+Team Leader | Backend Engineer | Grad Student
 
-I am Luka Mihailović - software engineer and graduate student.  
-I care about clear (not clever) code, minimalist solutions and correctness.
+I care about clear (not clever) code, minimalist solutions and correctness.  
+Currently Head of IT at [Argo Student Robotics Team](https://argorobotics.rs).
 
-Head of IT at [Argo Student Robotics Team](https://argorobotics.rs)
+## Projects
 
-Reach me at luka@lukam.xyz
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [sugo](https://github.com/luka/sugo) | Static site generator built on Unix philosophy. Powers [lukam.xyz](https://lukam.xyz). | Go |
+| [Strong eCourses](https://github.com/lmihailovic/Strong-eCourses) | Web app for managing educational courses and lessons. | C#, ASP.NET, MongoDB |
+| [LibreMed](https://github.com/lmihailovic/LibreMed) | Desktop app for managing medical patients and appointments. | C#, Avalonia |
+
+## Contact
+- Email: luka@lukam.xyz
+- LinkedIn: [Luka Mihailović](https://www.linkedin.com/in/luka-mihailovi%C4%87)
+- Website: [lukam.xyz](https://lukam.xyz)
