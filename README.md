@@ -8,7 +8,7 @@ Currently Head of IT at [Argo Student Robotics Team](https://argorobotics.rs).
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [sugo](https://github.com/luka/sugo) | Static site generator built on Unix philosophy. Powers [lukam.xyz](https://lukam.xyz). | Go |
+| [sugo](https://github.com/lmihailovic/sugo) | Static site generator built on Unix philosophy. Powers [lukam.xyz](https://lukam.xyz). | Go |
 | [Strong eCourses](https://github.com/lmihailovic/Strong-eCourses) | Web app for managing educational courses and lessons. | C#, ASP.NET, MongoDB |
 | [LibreMed](https://github.com/lmihailovic/LibreMed) | Desktop app for managing medical patients and appointments. | C#, Avalonia |
 
