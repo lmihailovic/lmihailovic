@@ -2,7 +2,6 @@
 Team Leader | Backend Engineer | Grad Student
 
 I care about clear (not clever) code, minimalist solutions and correctness.  
-Currently Head of IT at [Argo Student Robotics Team](https://argorobotics.rs).
 
 ## Projects
 
