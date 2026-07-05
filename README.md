@@ -1,7 +1,7 @@
 # Howdy, I'm Luka 👋🤠
 Team Leader | Backend Engineer | Grad Student
 
-I care about clear (not clever) code, minimalist solutions and correctness.  
+I care about simple code, minimalist solutions and correctness.  
 
 ## Projects
 
